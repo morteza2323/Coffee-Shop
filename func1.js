@@ -7,3 +7,4 @@ const func3 = () =>
 {
     
 }
+console.log('wd');
