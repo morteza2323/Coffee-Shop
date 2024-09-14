@@ -7,7 +7,3 @@ const func3 = () =>
 {
     
 }
-const func4 = () =>
-{
-    
-}
