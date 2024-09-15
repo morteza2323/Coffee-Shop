@@ -19,3 +19,5 @@ let a = 5
 [github static badges](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-games-)
 
 [github dynamic badges](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=morteza2323&theme=react)
