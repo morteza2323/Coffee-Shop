@@ -15,3 +15,7 @@ let a = 5
     - python
     - php
     - go
+---
+[github static badges](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-games-)
+
+[github dynamic badges](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
