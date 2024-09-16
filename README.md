@@ -42,7 +42,7 @@ let a = 5
 ```
 
 |col 1|col 2|col 3|
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | abbbbb | bbbbbbbbb | cbbbbbbbbbbb |
 | react | vue | angular |
 | react | vue | angular |
