@@ -23,3 +23,31 @@ let a = 5
 [github page stats](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=morteza2323&theme=react)
+
+> i am morteza abdolahi
+>> a react developer
+
+```diff
+- console.log('logger');
+- console.log('logger');
+- console.log('logger');
+- console.log('logger');
+- console.log('logger');
+
++ const logger = () => true;
++ const logger = () => true;
++ const logger = () => true;
++ const logger = () => true;
++ const logger = () => true;
+```
+
+|col 1|col 2|col 3|
+| -- | -- | -- |
+| abbbbb | bbbbbbbbb | cbbbbbbbbbbb |
+| a | b | c |
+| a | b | c |
+| a | b | c |
+| a | b | c |
+| a | b | c |
+| a | b | c |
+| a | b | c |
