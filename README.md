@@ -33,6 +33,7 @@ let a = 5
 - console.log('logger');
 - console.log('logger');
 - console.log('logger');
+- console.log('abc');
 
 + const logger = () => true;
 + const logger = () => true;
@@ -42,7 +43,7 @@ let a = 5
 ```
 
 |col 1|col 2|col 3|
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | abbbbb | bbbbbbbbb | cbbbbbbbbbbb |
 | react | vue | angular |
 | react | vue | angular |
