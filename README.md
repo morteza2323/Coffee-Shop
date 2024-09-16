@@ -20,4 +20,6 @@ let a = 5
 
 [github dynamic badges](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
 
+[github page stats](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=morteza2323&theme=react)
