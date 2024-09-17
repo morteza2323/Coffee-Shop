@@ -37,7 +37,7 @@ let a = 5
 
 + const logger = () => false;
 + const logger = () => false;
-+ const logger = () => false;
++ const logger = () => true;
 + const logger = () => true;
 + const logger = () => true;
 ```
