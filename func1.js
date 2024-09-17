@@ -6,3 +6,7 @@ const func2 = () =>
     logger();
     console.log(a+b);
 }
+const getuser = () => true;
+const deleteuser = () => true;
+const updateuser = () => false;
+const createuser = () => {};
