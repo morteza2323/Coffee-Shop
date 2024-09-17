@@ -6,4 +6,3 @@ const func2 = () =>
     logger();
     console.log(a+b);
 }
-const deleteuser = () => true;
