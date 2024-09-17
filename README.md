@@ -35,9 +35,9 @@ let a = 5
 - console.log('logger');
 - console.log('abc');
 
-+ const logger = () => true;
-+ const logger = () => true;
-+ const logger = () => true;
++ const logger = () => false;
++ const logger = () => false;
++ const logger = () => false;
 + const logger = () => true;
 + const logger = () => true;
 ```
